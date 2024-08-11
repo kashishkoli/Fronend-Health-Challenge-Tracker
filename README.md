@@ -26,3 +26,6 @@ Health Challenge Tracker is a single-page application (SPA) developed using Angu
 
 <h3> Screenshots</h3>
 -<b></b>
+![image](https://github.com/user-attachments/assets/b60b9cab-e0da-4bb9-bf6b-b732c24e57ac)
+-<b></b>
+![image](https://github.com/user-attachments/assets/da902509-1296-4522-b316-c9e821d2b06f)
